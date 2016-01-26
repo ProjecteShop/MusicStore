@@ -1,0 +1,316 @@
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\SportsStore\SportsStore.WebUI\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll.config
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\SportsStore.WebUI.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\SportsStore.WebUI.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Moq.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Ninject.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\SportsStore.Domain.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\WebActivator.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\WebActivatorEx.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\SportsStore.Domain.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Moq.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Ninject.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\Old\MusicStore\SportsStore.WebUI\obj\Debug\SportsStore.WebUI.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Moq.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Ninject.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Webpages.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Webpages.Razor.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\WebActivator.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\WebActivatorEx.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Moq.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Ninject.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Webpages.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Webpages.Razor.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\MusicStore.DAL.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\bin\MusicStore.DAL.pdb
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Kamil\Desktop\Projekt Dzialajacy\Nowy\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Moq.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.DAL.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Ninject.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\WebActivator.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\WebActivatorEx.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\MusicStore.DAL.pdb
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Moq.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Ninject.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\MusicStore.dll.config
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\MusicStore.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\MusicStore.pdb
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Moq.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\MusicStore.DAL.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Ninject.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\WebActivator.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\WebActivatorEx.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\MusicStore.DAL.pdb
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Moq.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Ninject.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Kamil\Desktop\Dziala2\MusicStore\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\MusicStore.dll.config
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\MusicStore.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\MusicStore.pdb
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\EntityFramework.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Moq.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\MusicStore.DAL.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Ninject.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\WebActivator.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\WebActivatorEx.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\MusicStore.DAL.pdb
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\EntityFramework.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Moq.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Ninject.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kamil\Documents\GitHub\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\GitHub\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Kamil\Documents\GitHub\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\MusicStore.dll.config
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\MusicStore.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\MusicStore.pdb
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\EntityFramework.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Moq.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\MusicStore.DAL.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Ninject.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\WebActivator.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\WebActivatorEx.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\MusicStore.DAL.pdb
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\EntityFramework.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Moq.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Ninject.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kamil\Desktop\Git\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Desktop\Git\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Kamil\Desktop\Git\MusicStore\obj\Debug\MusicStore.pdb
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\MusicStore.dll.config
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\MusicStore.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\MusicStore.pdb
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\EntityFramework.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Moq.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\MusicStore.DAL.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Ninject.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Ninject.Web.Common.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Ninject.Web.Mvc.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\SimpleCrypto.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.Helpers.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.Mvc.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.Razor.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.WebPages.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\WebActivator.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\WebActivatorEx.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\MusicStore.DAL.pdb
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\EntityFramework.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Moq.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Ninject.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Ninject.Web.Common.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\Ninject.Web.Mvc.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.Helpers.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.Mvc.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.Razor.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.WebPages.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\obj\Debug\MusicStore.csprojResolveAssemblyReference.cache
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\obj\Debug\MusicStore.dll
+C:\Users\Kamil\Documents\Aplikacje_laborki\Git\MusicStore\obj\Debug\MusicStore.pdb
